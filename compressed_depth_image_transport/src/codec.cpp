@@ -33,6 +33,8 @@
 *  POSSIBILITY OF SUCH DAMAGE.
 *********************************************************************/
 
+#define CV_LOAD_IMAGE_UNCHANGED -1
+
 #include <limits>
 #include <string>
 #include <vector>
